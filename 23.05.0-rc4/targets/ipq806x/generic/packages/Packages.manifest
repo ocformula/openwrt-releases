@@ -7,10 +7,10 @@ License: GPL-2.0
 Section: base
 SourceDateEpoch: 1696012115
 Architecture: arm_cortex-a15_neon-vfpv4
-Installed-Size: 53854
+Installed-Size: 53831
 Filename: base-files_1543-r23482-7fe85ce1f2_arm_cortex-a15_neon-vfpv4.ipk
-Size: 54846
-SHA256sum: beccc043ee71a8e7fd644678f5c6ccce20a44e1a2b5eae3e0af9b555f97e5e51
+Size: 54808
+SHA256sum: 5b1eff7e715d8314e8d818da0128c2a5900c6f2f6241fd882582a31a52b2ee47
 Description:  This package contains a base filesystem and system scripts for OpenWrt.
 
 Package: dropbear
