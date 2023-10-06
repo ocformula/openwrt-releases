@@ -4,10 +4,10 @@ Depends: libc, netifd, jsonfilter, usign, openwrt-keyring, ubi-utils, fstools, f
 License: GPL-2.0
 Section: base
 Architecture: arm_cortex-a15_neon-vfpv4
-Installed-Size: 53840
+Installed-Size: 53854
 Filename: base-files_1543-r23482-7fe85ce1f2_arm_cortex-a15_neon-vfpv4.ipk
-Size: 54822
-SHA256sum: b4017ac9a0314e1ec3577683eb012d03aafb3e9f899d21a641f6f3e193f5c9db
+Size: 54846
+SHA256sum: beccc043ee71a8e7fd644678f5c6ccce20a44e1a2b5eae3e0af9b555f97e5e51
 Description:  This package contains a base filesystem and system scripts for OpenWrt.
 
 Package: dropbear
