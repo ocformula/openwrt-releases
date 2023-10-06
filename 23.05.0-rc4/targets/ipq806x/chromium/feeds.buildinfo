@@ -1,0 +1,6 @@
+src-git packages https://git.openwrt.org/feed/packages.git^5f3879f71
+src-git luci https://git.openwrt.org/project/luci.git^99559f95b8
+src-git routing https://git.openwrt.org/feed/routing.git^2272106
+src-git telephony https://git.openwrt.org/feed/telephony.git^c6b1315
+src-git nss https://github.com/ACwifidude/nss-packages.git^2fcff66
+src-git sqm_scripts_nss https://github.com/rickkdotnet/sqm-scripts-nss.git^bf905d8

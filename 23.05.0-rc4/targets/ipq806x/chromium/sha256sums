@@ -1,0 +1,13 @@
+c81042b6ed4410f1e717a07a85e8cf620771aa4867b890de29b447d56fd90aa8 *config.buildinfo
+1f95f84c95cd7d54c770ef1ceb340a4fa8dd12274d7589eb230fe9a70d7b5a80 *feeds.buildinfo
+d4a2d73f7a81db68fb029a81599043f37c2e0ea7e62fda64033bdf4d7f3cc450 *kernel-debug.tar.zst
+c6a817809b16d82c9995b2f40ecf8d9bf0c941623e9946b8c5e0bc403e8a1034 *openwrt-23.05.0-rc4-ipq806x-chromium-asus_onhub-initramfs-fit-zImage.itb.vboot
+ab19e2dcb6dfc3d09f8e63457ea215e7715607455b61bdb86621ce8ff42d1bb8 *openwrt-23.05.0-rc4-ipq806x-chromium-asus_onhub-squashfs-factory.bin
+3130e64eaaf76641072d8b16d4a17fe1a59bfaa84c766c35eebdba2d00dff29e *openwrt-23.05.0-rc4-ipq806x-chromium-asus_onhub-squashfs-sysupgrade.bin
+bb5c052cd4623bfc2fe405c2562fcb2b72ff09ab32ef5c9d604be9b702013be0 *openwrt-23.05.0-rc4-ipq806x-chromium-tplink_onhub-initramfs-fit-zImage.itb.vboot
+0f49a468528414c4cb15081241b0198c00a023ddb66e0a2ba5ba5135043bc0f8 *openwrt-23.05.0-rc4-ipq806x-chromium-tplink_onhub-squashfs-factory.bin
+94d1400a99f4fd887b749bb6c817f6209e81fad7131f2e9d123e2c1c206db2a1 *openwrt-23.05.0-rc4-ipq806x-chromium-tplink_onhub-squashfs-sysupgrade.bin
+8aa59d6e48996b6b6a489df9da70f9c820b468f14bf3ae436533008130867b1c *openwrt-23.05.0-rc4-ipq806x-chromium.manifest
+7ed144838196b322224ead253450a35247e89c360d0ea60c55f2eba1f7e83fef *openwrt-toolchain-23.05.0-rc4-ipq806x-chromium_gcc-12.3.0_musl_eabi.Linux-x86_64.tar.xz
+23a726f19874b9a7c14b48534e884b967520774f2d9ce8616026380f992276f3 *profiles.json
+1ca864f5ee4bcf159ea6913c91585b512fa6d1c3167aa49470e80dffbbd0cccf *version.buildinfo
